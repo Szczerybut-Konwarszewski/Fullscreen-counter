@@ -1,4 +1,4 @@
-#Fullscreen-counter application
+# Fullscreen-counter application
 
 Project title: Fullscreen counter
 
